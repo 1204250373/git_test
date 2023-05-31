@@ -10,4 +10,5 @@ func main() {
 	fmt.Printf("master test")
 	fmt.Printf("hot-fix test!")
 	fmt.Printf("push test!")
+	fmt.Printf("pull test!")
 }
